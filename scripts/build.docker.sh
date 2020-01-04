@@ -1,0 +1,1 @@
+./gradlew jibDockerBuild --image=geonhocom/decisioner
